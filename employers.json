@@ -44,7 +44,7 @@
     {"name": "CONTROL MANAGEMENT LLC", "active": true},
     {"name": "CONTROL SPECIALTIES LLC", "active": true},
     {"name": "CONTROL WIRING INC", "active": true},
-    {"name": "CURRENT ALTERNATIVES LLC", "active": true},
+    {"name": "CURRENT ALTERNATIVES LLC", "active": false},
     {"name": "DC ELECTRIC LLC", "active": true},
     {"name": "D.E.C.A. INC", "active": true},
     {"name": "DALTON ELECTRIC SVC INC", "active": true},
